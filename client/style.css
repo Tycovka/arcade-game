@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+canvas {
+  border: 3px solid white;
+  background-color: #222;
+}
+
+#hud {
+  margin-top: 10px;
+}
